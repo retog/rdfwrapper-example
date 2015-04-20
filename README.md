@@ -1,4 +1,4 @@
-# wrap-as-rdf
+# RDF-Wrapper for Java (value) Objects Example
 An example on how to wrap objects as RDFgraphs
 
 Implements the simple usecase for wrapping data as RDf described here using the the clerezza commons RDF API.
